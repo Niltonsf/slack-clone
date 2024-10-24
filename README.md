@@ -1,36 +1,64 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Slack Clone 💬
 
-## Getting Started
+Welcome to **Slack Clone** – a modern, scalable communication platform inspired by the best! Built with React, this clone brings you all the essential features of real-time messaging, channel organization, file sharing, and user management, wrapped in a sleek and simple interface. Perfect for teams that want a Slack-like experience but customized to their own needs. 🚀
 
-First, run the development server:
+Join the conversation, stay organized, and enjoy the ease of communication like never before! 🔥
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Table of Contents
+1. [Features](#1-features)
+2. [Technologies](#2-technologies)
+3. [Getting Started](#3-getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
+4. [Configuration](#4-configuration)
+5. [Running the Project](#5-running-the-project)
+6. [Contributing](#6-contributing)
+7. [License](#7-license)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 1. Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+**Coming soon**
 
-## Learn More
+## 2. Technologies
 
-To learn more about Next.js, take a look at the following resources:
+**Coming soon**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 3. Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Follow these instructions to set up the project on your local machine.
 
-## Deploy on Vercel
+### Prerequisites
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Node.js
+- npm or yarn
+- Supabase
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Installation
+
+**Coming soon**        
+
+## 4. Configuration
+
+**Coming soon**
+
+## 5. Running the Project
+
+### Development Mode
+
+**Coming soon**
+  
+## 6. Contributing
+
+Contributions are welcome! Here's how you can help:
+
+1. Fork the repository
+2. Create a new feature branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m 'Add your feature'`
+4. Push the branch: `git push origin feature/your-feature`
+5. Open a pull request
+
+## 7. License
+
+This is a educational project.
