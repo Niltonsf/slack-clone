@@ -47,6 +47,12 @@ Follow these instructions to set up the project on your local machine.
 
 ### Development Mode
 
+1. Start the project:
+
+    ```bash    
+    npm run dev && npm convex dev
+    ```
+
 **Coming soon**
   
 ## 6. Contributing
